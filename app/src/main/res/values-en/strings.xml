@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">Search</string>
+    <string name="bahasa">Language</string>
+    <string name="nama">Name</string>
+    <string name="login">Login</string>
+    <string name="biografi">Biography</string>
+    <string name="perusahaan">Company</string>
+    <string name="lokasi">Location</string>
+    <string name="alamat_url">URL Address</string>
+    <string name="repositori">Repository</string>
+    <string name="gist">Gist</string>
+    <string name="following">Following</string>
+    <string name="follower">Followers</string>
+    <string name="_0">0</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_favorite">In Add to Favorites</string>
+    <string name="delete_favorite">Removed from Favorites</string>
+    <string name="snack_bar">No Favorite Data Currently</string>
+    <string name="key_reminder">Key Reminder</string>
+    <string name="reminder">Reminder at 09.00 AM</string>
+    <string name="key_bahasa">Key Bahasa</string>
+    <string name="pengingat_aktif">Reminder activated</string>
+    <string name="pengingat_mati">The reminder is turned off</string>
+    <string name="reminder_titlle">Reminder</string>
+    <string name="reminder_message">Let\'s take a look at your favorite github users</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:iconSpaceReserved="false">
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="@string/key_reminder"
+        android:title="@string/reminder"
+        android:icon="@drawable/ic_baseline_notifications_24"/>
+
+    <Preference
+        android:defaultValue="false"
+        android:key="@string/key_bahasa"
+        android:title="@string/bahasa"
+        android:icon="@drawable/ic_language_24px"/>
+
+</PreferenceScreen>

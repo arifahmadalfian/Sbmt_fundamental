@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Consumer Github</string>
+    <string name="search">Cari</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="nama">Nama</string>
+    <string name="login">Login</string>
+    <string name="biografi">Biografi</string>
+    <string name="perusahaan">Perusahaan</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="alamat_url">Alamat Url</string>
+    <string name="repositori">Repositori</string>
+    <string name="gist">Gist</string>
+    <string name="following">Diikuti</string>
+    <string name="follower">Pengikut</string>
+    <string name="_0">0</string>
+    <string name="favorite">Favorit</string>
+    <string name="add_favorite">Di Tambahkan ke Favorite</string>
+    <string name="delete_favorite">Di Hapus dari Favorite</string>
+    <string name="snack_bar">Tidak Ada Data Saat ini</string>
+    <string name="key_reminder">Key Reminder</string>
+    <string name="reminder">Pengingat pada pukul 09.00</string>
+    <string name="key_bahasa">Key Bahasa</string>
+    <string name="pengingat_aktif">Pengingat Diaktifkan</string>
+    <string name="pengingat_mati">Pengingat Dimatikan</string>
+    <string name="reminder_titlle">Pengingat</string>
+    <string name="reminder_message">Mari lihat pengguna github favoritmu</string>
+
+
+</resources>
